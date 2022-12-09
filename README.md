@@ -28,3 +28,10 @@ Hardworking, organized and endowed with an analytical mind, I will take care to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prism404&layout=compact&show_icons=true&theme=nord)](https://github.com/prism404/github-readme-stats)
 
 </details>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=puissance4&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=MVC_My_Quiz&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=my_irc)](https://github.com/prism404/github-readme-stats)
+
