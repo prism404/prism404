@@ -28,7 +28,7 @@ Hardworking, organized and endowed with an analytical mind, I will take care to 
 </details>
 
 <details open> 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
   <!-- Repo info cards - https://github.com/prism404/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/prism404/github-readme-stats -->
