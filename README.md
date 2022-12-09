@@ -1,6 +1,7 @@
 ### Hi there ! Welcome to my Github !
-
 ![](https://github.com/prism404/meteor-rain.gif)
+
+<img src="/header.jpg">
 
 Today, i'm looking for a work-study contract where i can be 3 weeks at the company and 1 week at my campus.
 I'm currently based in Paris and my goal is to join a dynamic and motivated company where i'll put my knowledge in practice.
@@ -33,5 +34,5 @@ Hardworking, organized and endowed with an analytical mind, I will take care to 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=MVC_My_Quiz&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=my_irc)](https://github.com/prism404/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=my_irc&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
 
