@@ -1,6 +1,3 @@
-### Hi there ! Welcome to my Github !
-![](https://github.com/prism404/meteor-rain.gif)
-
 <img src="/header.jpg">
 
 Today, i'm looking for a work-study contract where i can be 3 weeks at the company and 1 week at my campus.
