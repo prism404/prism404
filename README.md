@@ -2,9 +2,9 @@
 
 <img src="/github_cat.gif">
 
-<br>
-
 </div>
+
+<br>
 
 <div align="center">
 
