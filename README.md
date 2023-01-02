@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="/github_cat.gif">  
+<img src="/github_cat.gif">
+
+<br>
 
 </div>
 
@@ -18,7 +20,9 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-</div>  
+</div>
+
+<br>
 
 Today, i'm looking for a work-study contract where i can be 3 weeks at the company and 1 week at my campus.
 I'm currently based in Paris and my goal is to join a dynamic and motivated company where i'll put my knowledge in practice.
