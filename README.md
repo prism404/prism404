@@ -58,17 +58,3 @@ Hardworking, organized and endowed with an analytical mind, I will take care to 
 
 </details>
 
-<details open> 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- Repo info cards - https://github.com/prism404/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/prism404/github-readme-stats -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=puissance4&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=MVC_My_Quiz&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prism404&repo=my_irc&show_icons=true&theme=calm)](https://github.com/prism404/github-readme-stats)
-
-</div>
-</details>
